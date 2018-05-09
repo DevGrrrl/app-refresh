@@ -1,14 +1,16 @@
-# app-refresh
 
-## This project details a redsign of the upShop app. 
+
+## This project details a redsign of the [upShop](https://github.com/DevGrrrl/upShop) app. 
 
 ### Goals
 - to redesign the UI of the app, starting with the mobile views first, specifically the 'find a business route'.
-- avoid any changes to the user journey that will disrupt the current logic in the code or require significant changes. 
+- avoid any changes to the user journey that will disrupt the current logic in the code or require significant changes to the code. 
 
 ### What is upShop?
 
 An app that allows the user to search for businesses that reflect their values as well as contribute to the upShop community by adding/editing businesses.
+
+It was a group project designed & built during my time at Founders & Coders. 
 
 ### Overview of original design sprint & findings
 
@@ -50,10 +52,9 @@ Artboards for different categories:
 
 <img width="820" alt="screen shot 2018-05-09 at 19 18 43" src="https://user-images.githubusercontent.com/22034073/39831967-e6a9b762-53bd-11e8-8f6c-3ce15fa7c211.png">
 
-Here's a gif of the prototype, alternatively you may view the XD prototype [here](![upshop-refresh-gif](https://user-images.githubusercontent.com/22034073/39830632-e879b3b6-53b9-11e8-8a66-5e173285ed76.gif)
-)
+Here's a gif of the prototype, alternatively you may view the XD prototype [here](https://xd.adobe.com/view/3e455ab2-133b-4aa5-8a29-4612a27ce9b4?fullscreen)
 
-![upshop-refresh-final](https://user-images.githubusercontent.com/22034073/39831341-0b941d8a-53bc-11e8-87f8-866f46c1eee8.gif)
+![upshop-refresh-final](https://user-images.githubusercontent.com/22034073/39832403-f51076a0-53be-11e8-8601-28601378f2e3.gif)
 
 Mockup:
 
