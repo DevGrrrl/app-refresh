@@ -46,11 +46,12 @@ Invision Link [here](https://projects.invisionapp.com/share/8XICY6FH574#/screens
 
 Artboards for one user journey:
 
-<img width="859" alt="screen shot 2018-05-09 at 19 09 34" src="https://user-images.githubusercontent.com/22034073/39831487-911262b4-53bc-11e8-9679-9e84893211ff.png">
+<img width="859" alt="artboard" src="https://user-images.githubusercontent.com/22034073/39831487-911262b4-53bc-11e8-9679-9e84893211ff.png">
 
 Artboards for different categories:
 
-<img width="820" alt="screen shot 2018-05-09 at 19 18 43" src="https://user-images.githubusercontent.com/22034073/39831967-e6a9b762-53bd-11e8-8f6c-3ce15fa7c211.png">
+<img width="832" alt="artboard" src="https://user-images.githubusercontent.com/22034073/39844555-89f6695e-53e8-11e8-8f1d-a122ca1b9ce7.png">
+
 
 Here's a gif of the prototype, alternatively you may view the XD prototype [here](https://xd.adobe.com/view/3e455ab2-133b-4aa5-8a29-4612a27ce9b4?fullscreen)
 
