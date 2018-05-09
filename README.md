@@ -38,7 +38,7 @@ Here's a gif of the finished app. Alternatively, you may view the site [here](ht
 
 <img width="809" alt="screen shot 2018-05-09 at 18 23 21" src="https://user-images.githubusercontent.com/22034073/39829360-1af318d6-53b6-11e8-9ca2-0513493a18f4.png">
 
-Invision Link [here](https://invis.io/8XICY6FH574#/295974247_List-View). 
+Invision Link [here](https://projects.invisionapp.com/share/8XICY6FH574#/screens). 
 
 ### Prototype
 
@@ -48,8 +48,7 @@ Artboards for one user journey:
 
 Artboards for different categories:
 
-<img width="844" alt="screen shot 2018-05-09 at 19 07 52" src="https://user-images.githubusercontent.com/22034073/39831428-51550758-53bc-11e8-9ba4-8f4fb3ebdb6f.png">
-
+<img width="820" alt="screen shot 2018-05-09 at 19 18 43" src="https://user-images.githubusercontent.com/22034073/39831967-e6a9b762-53bd-11e8-8f6c-3ce15fa7c211.png">
 
 Here's a gif of the prototype, alternatively you may view the XD prototype [here](![upshop-refresh-gif](https://user-images.githubusercontent.com/22034073/39830632-e879b3b6-53b9-11e8-8a66-5e173285ed76.gif)
 )
