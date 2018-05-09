@@ -24,7 +24,7 @@ Here is a screenshot of some of the original designs for the app:
 
 #### Finished app
 
-Here's a gif of the finished app. Alternatively, you may view the site [here](https://upshop.herokuapp.com/). There is currently no desktop styling. 
+Here's a gif of the finished app. Alternatively, you may view the site [here](https://upshop.herokuapp.com/). There is currently no desktop styling so you will need to use the dev tools device emulator to view (iPhone6/7/8). 
 
 ![upshop-gif](https://user-images.githubusercontent.com/22034073/39828728-fc24ad0e-53b3-11e8-82e4-61f5043274f5.gif)
 
@@ -44,17 +44,17 @@ Invision Link [here](https://invis.io/8XICY6FH574#/295974247_List-View).
 
 Artboards for one user journey:
 
-<img width="906" alt="screen shot 2018-05-09 at 18 27 16" src="https://user-images.githubusercontent.com/22034073/39829522-a4015124-53b6-11e8-91f6-0febdb505bbd.png">
+<img width="859" alt="screen shot 2018-05-09 at 19 09 34" src="https://user-images.githubusercontent.com/22034073/39831487-911262b4-53bc-11e8-9679-9e84893211ff.png">
 
 Artboards for different categories:
 
-<img width="764" alt="screen shot 2018-05-09 at 18 06 58" src="https://user-images.githubusercontent.com/22034073/39829559-c94e99fa-53b6-11e8-9301-5661c8d42975.png">
+<img width="844" alt="screen shot 2018-05-09 at 19 07 52" src="https://user-images.githubusercontent.com/22034073/39831428-51550758-53bc-11e8-9ba4-8f4fb3ebdb6f.png">
+
 
 Here's a gif of the prototype, alternatively you may view the XD prototype [here](![upshop-refresh-gif](https://user-images.githubusercontent.com/22034073/39830632-e879b3b6-53b9-11e8-8a66-5e173285ed76.gif)
 )
 
-![upshop-refresh](https://user-images.githubusercontent.com/22034073/39830799-6541136c-53ba-11e8-8bb2-70ee612f6c8b.gif)
-
+![upshop-refresh-final](https://user-images.githubusercontent.com/22034073/39831341-0b941d8a-53bc-11e8-87f8-866f46c1eee8.gif)
 
 Mockup:
 
